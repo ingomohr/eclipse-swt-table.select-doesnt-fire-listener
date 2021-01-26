@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Foo
+Bundle-SymbolicName: swtbug-tableselection
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: foo
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.swt;bundle-version="3.115.100"
